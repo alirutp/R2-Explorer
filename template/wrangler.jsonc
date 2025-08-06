@@ -1,1 +1,10 @@
+name = "r2-explorer"
+compatibility_date = "2025-08-05"
+main = "src/index.ts"
 
+# Bind R2 Buckets to your application.
+# Docs: https://r2explorer.com/getting-started/add-r2-buckets/
+[[r2_buckets]]
+binding = "r2-explorer"
+bucket_name = "r2-explorer"
+preview_bucket_name = 'r2-explorer'
