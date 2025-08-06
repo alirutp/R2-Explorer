@@ -1,5 +1,5 @@
 name = "r2-explorer"
-compatibility_date = "2025-08-07"
+compatibility_date = "2025-08-05"
 main = "src/index.ts"
 
 # Bind R2 Buckets to your application.
